@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Subaru</key>
+	<dict>
+		<key>4S4BREJCXC2299411</key>
+		<array>
+			<string>2012</string>
+			<string>Outback</string>
+			<string>3.6R Limited</string>
+			<string>&quot;&quot;</string>
+			<integer>24432</integer>
+			<integer>27000</integer>
+			<integer>0</integer>
+			<integer>0</integer>
+			<string></string>
+		</array>
+	</dict>
+	<key>Volkswagen</key>
+	<dict>
+		<key>WVWBA7AH8AV013747</key>
+		<array>
+			<string>2010</string>
+			<string>EOS</string>
+			<string>Komfort</string>
+			<string></string>
+			<integer>9500</integer>
+			<integer>91492</integer>
+			<integer>0</integer>
+			<integer>0</integer>
+			<string>Engine:2.0L I-4 cylTransmission:AutomaticDrive Line:Front-wheel DriveFuel Type:premium unleadedExterior Color:Reflex SilverInterior Color:Moonrock Gray</string>
+		</array>
+		<key>WVWBA71K59W060901</key>
+		<array>
+			<string>2009</string>
+			<string>Rabbit</string>
+			<string>2-Door S</string>
+			<string>&quot;&quot;</string>
+			<integer>7483</integer>
+			<real>65343</real>
+			<integer>0</integer>
+			<integer>0</integer>
+			<string></string>
+		</array>
+	</dict>
+	<key>Jeep</key>
+	<dict>
+		<key>1C4BJWKG5DL665452</key>
+		<array>
+			<string>2013</string>
+			<string>Wrangler</string>
+			<string>Unlimited Sport 4WD</string>
+			<string>&quot;&quot;</string>
+			<integer>15436</integer>
+			<integer>22321</integer>
+			<integer>0</integer>
+			<integer>0</integer>
+			<string></string>
+		</array>
+	</dict>
+	<key>Mercedes-Benz</key>
+	<dict>
+		<key>WDCGG5GBXCF896057</key>
+		<array>
+			<string>2012</string>
+			<string>GLK-Class</string>
+			<string>GLK350</string>
+			<string></string>
+			<integer>23899</integer>
+			<integer>63338</integer>
+			<integer>0</integer>
+			<integer>0</integer>
+			<string>Engine:3.5L V-6 cylTransmission:AutomaticDrive Line:4x2Fuel Type:premium unleadedExterior Color:Mars Red</string>
+		</array>
+	</dict>
+	<key>Hyundai</key>
+	<dict>
+		<key>KMHGC4DF4CU181544</key>
+		<array>
+			<string>2012</string>
+			<string>Genesis</string>
+			<string>4.6L Bluetooth</string>
+			<string></string>
+			<integer>19994</integer>
+			<real>68558</real>
+			<integer>0</integer>
+			<integer>0</integer>
+			<string>Engine:4.6L V-8 cylTransmission:AutomaticDrive Line:Rear-wheel DriveFuel Type:premium unleadedExterior Color:Titanium GrayInterior Color:Jet Black</string>
+		</array>
+	</dict>
+	<key>Toyota</key>
+	<dict>
+		<key>5TDZA23C96S478560</key>
+		<array>
+			<string>2006</string>
+			<string>Sienna</string>
+			<string>LE</string>
+			<string></string>
+			<integer>7500</integer>
+			<integer>107643</integer>
+			<integer>0</integer>
+			<integer>0</integer>
+			<string>Transmission:AutomaticEngine:3.3L V-6 cyl
+Drive Line:Front-wheel Drive
+Fuel Type:regular unleaded
+Exterior Color:Nautical Blue
+Interior Color:Taupe</string>
+		</array>
+	</dict>
+	<key>BMW</key>
+	<dict>
+		<key>WBANU5C55AC364359</key>
+		<array>
+			<string>2010</string>
+			<string>528i</string>
+			<string>528i</string>
+			<string></string>
+			<integer>16995</integer>
+			<integer>68558</integer>
+			<integer>0</integer>
+			<integer>0</integer>
+			<string>Engine:3.0L I-6 cylTransmission:AutomaticDrive Line:Rear-wheel DriveFuel Type:premium unleadedExterior Color:Black SapphireInterior Color:Cream Beige</string>
+		</array>
+	</dict>
+	<key>Ford</key>
+	<dict>
+		<key>2FMDK3AKXDBA04912</key>
+		<array>
+			<string>2013</string>
+			<string>Edge</string>
+			<string>Sport</string>
+			<string>&quot;&quot;</string>
+			<integer>24995</integer>
+			<integer>97244</integer>
+			<integer>0</integer>
+			<integer>0</integer>
+			<string></string>
+		</array>
+		<key>1FTFW1CT7BFB68206</key>
+		<array>
+			<string>2011</string>
+			<string>F-150</string>
+			<string>Lariat SuperCrew</string>
+			<string>&quot;&quot;</string>
+			<integer>24995</integer>
+			<integer>105382</integer>
+			<integer>0</integer>
+			<integer>0</integer>
+			<string>Engine:3.5L V-6 cylTransmission:AutomaticDrive Line:4x2Fuel Type:regular unleadedExterior Color:Oxford WhiteInterior Color:Pale Adobe</string>
+		</array>
+		<key>2FTEF14Y9FCB16082</key>
+		<array>
+			<string>1985</string>
+			<string>F-150</string>
+			<string>Regular Cab 4WD</string>
+			<string>&quot;&quot;</string>
+			<integer>4231</integer>
+			<integer>232133</integer>
+			<integer>0</integer>
+			<integer>0</integer>
+			<string></string>
+		</array>
+		<key>1FTYF17W0WNC38072</key>
+		<array>
+			<string>1998</string>
+			<string>F-150</string>
+			<string>XL Reg. Cab Long Bed</string>
+			<string>&quot;&quot;</string>
+			<integer>9203</integer>
+			<integer>132343</integer>
+			<integer>0</integer>
+			<integer>0</integer>
+			<string></string>
+		</array>
+		<key>1FTFW1CV4AFC66237</key>
+		<array>
+			<string>2010</string>
+			<string>F-150</string>
+			<string>Lariat SuperCrew</string>
+			<string>&quot;&quot;</string>
+			<real>27599</real>
+			<integer>76534</integer>
+			<integer>0</integer>
+			<integer>0</integer>
+			<string></string>
+		</array>
+		<key>1ZVBP8FFXC5231121</key>
+		<array>
+			<string>2012</string>
+			<string>Mustage</string>
+			<string>GT</string>
+			<string>&quot;&quot;</string>
+			<integer>20995</integer>
+			<integer>51128</integer>
+			<integer>0</integer>
+			<integer>0</integer>
+			<string></string>
+		</array>
+	</dict>
+</dict>
+</plist>
